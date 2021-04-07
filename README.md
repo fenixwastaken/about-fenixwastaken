@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fenixwastaken
+- 👀 I’m interested in soccer, coding, and Rocket League.
+- 🌱 I’m currently learning Python 3, Java, and Scratch.
+- 💞️ I’m looking to collaborate on anything RLBot-related.
+- 📫 How to reach me scratch.mit.edu/users/fenixwastaken.
